@@ -1,0 +1,20 @@
+body{ font: 14px sans-serif; }
+.header{ width: 100%;height:85px;background-color:#5758BB; padding: 0px;margin-left:auto;margin-right:auto; }
+
+.ck-editor__editable {
+    min-height: 400px;
+}
+
+.form-boep {
+	width:200px;
+	float:left;
+	padding-right:20px;
+	padding-top:10px;
+	
+}
+
+.login {
+	padding:0;
+	margin:0;
+	float:right;
+}
